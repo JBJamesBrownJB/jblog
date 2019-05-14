@@ -2,26 +2,6 @@
 title: About
 ---
 
-This is a poop site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+&nbsp;&nbsp;<strong>></strong>JB<strong><</strong>&nbsp;&nbsp; is a Tech Lead at ThoughtWorks. He has spent 13 years in the sports data world working with big, fast, critical microservice ecosystems. A keen microservice advocate he is looking forward to helping companies release the potential of their digital platforms by embracing the small and chatty.
 
-### Features:
-
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+Throughout his career in software, aided by heroic colleagues he has navigated the minefield of failure and occasionally stumbled on a tale of success. Weeding out the sources of failure and cultivating those that breed success, he hopes to tell his tales; sell his wares, and make the world a better place.
