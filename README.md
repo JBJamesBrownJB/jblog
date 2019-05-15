@@ -3,7 +3,7 @@
 Built with [GatsbyJS](https://www.gatsbyjs.org/) blog starter. <br /><br />
 
 The original version of the starter is from Greg Lobinski [@greglobinski](https://github.com/greglobinski)
-[starter](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors) who participated in this project.
+[starter](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors). Thanks Greg!
 
 ## Licence
 
