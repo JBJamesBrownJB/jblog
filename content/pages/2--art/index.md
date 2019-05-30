@@ -3,7 +3,7 @@ title: aRT
 menuTitle: Art
 ---
 
-**Art** is subjective, and so is your face.
+**Art** is subjective.
 
 ### Beavro
 
