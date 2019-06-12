@@ -1,18 +1,26 @@
 ---
 title: Continuous visibility, no more dashboards
 category: "monitoring"
-cover: photo-1465070845512-2b2dbdc6df67.jpg
+cover: DashRash.png
 author: JB
 ---
 
-The first panicked 3am call from a founding member of the company telling you that something is down and you have 10 minutes to fix it! ...is a great day!. It means your software means something. It has value. But after the dust settles and we all realise that we don’t know when the next critical failure is, how do we start gaining visibility on the health and fitness of our systems? are dashboards the answer?
+###My software fails! …and so does yours!
 
-This lightning talk focuses on how we can keep value in our overhead dashboards in our office space as well as my own teams journey on gaining visibility in a critical new system we built.
+In my experience working with agile software teams practicing CI and CD we were still far away from dealing with outages elegantly. It wasn't until a few of our systems, through successful business manoeuvres were elevated to increasing levels of criticality that we began to put more thought into monitoring, reliability, observability and outage planning into our day to day.
+
+Just like the tools, practices, culture and processes that makes CI and CD work, continuous visibility (CV) is to harness practices such as chaos engineering, monitoring and observability into our dev process in an attempt to reduce nasty surprises on our way.
+
+####One of the tools we utilised to help us was dashboards.
+![MISSING aRT!](roboMon.png "Visualize success!")
+We were already recording a wealth of insights about our systems such as timings, logs, tracing and hardware profiles to centralized stores and we started to mount overhead monitors in our office to present various collections of this data to the development teams. It is a simple and effective boost to visibility...and also makes the office look all modern and techy. But as with everything, if you build it, they may not come. No silver bullets in this world and often left neglected the value of our dashboards degraded.
+
+The lightning talk I delivered at muCon 2019 focuses on how we can keep value in our overhead dashboards as well as my own teams journey on gaining visibility in a critical new system we were challenged to build.
 
 
 ### muCon Conference, London, 2019
 
-[![IMAGE ALT TEXT](https://i.vimeocdn.com/video/787121577.webp?mw=640&mh=360)](https://player.vimeo.com/video/339167478 "Continuous Visivility, no more dashboards!")
+[![Conference video not found](https://i.vimeocdn.com/video/787121577.webp?mw=640&mh=360)](https://player.vimeo.com/video/339167478 "Continuous Visivility, no more dashboards!")
 
 There was an interesting question from the audience after this talk which wasn't captured in the video (partly down to me trying to evade questions :stuck_out_tongue:). The question was:
 
@@ -23,7 +31,3 @@ This question actually caught me by surprise, and whilst the they were absolutel
 Just like tools, dashboards don't bring visibility alone, they are just another way to empower the culture that breeds visibility.
 
 ![](./dash-rash-12334.png)
-
-### Dashboards are a trap
-
-Now we know what
