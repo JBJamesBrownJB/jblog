@@ -7,9 +7,13 @@ author: JB
 
 ###My software fails! …and so does yours!
 
-In my experience working with agile software teams practicing CI and CD we were still far away from dealing with outages elegantly. It wasn't until a few of our systems, through successful business manoeuvres were elevated to increasing levels of criticality that we began to put more thought into monitoring, reliability, observability and outage planning into our day to day.
+In my experience working with efective empowered agile software teams practicing healthy cultures and processes we were always still far away from dealing with outages elegantly. It wasn't until a few of our systems, through successful business manoeuvres were elevated to increasing levels of criticality that we began to put more thought into monitoring, observability and outage planning into our day to day.
 
-Just like the tools, practices, culture and processes that makes CI and CD work, continuous visibility (CV) is to harness practices such as chaos engineering, monitoring and observability into our dev process in an attempt to reduce nasty surprises on our way.
+We practiced BDD heavily, TDD religiously and agile ceremony...ceremoniously (suspend judgement of the value of those statements, I wouldnt suggest that these are a prescription for success but they did work well for us at the time). But we often fell into the trap for coding towards success, consequentilly, outages often broadsided us with embarresing unpredictibility.
+
+Just like the tools, practices, culture and processes that makes CI and CD work, continuous visibility (CV) is where we weaponise our understanding of testing, observability and monitoring by including it into our day to day development process. Themes such as coding for failure, chaos engineering, testing in production, SRE and many many more are employed as required to build a "team first" approach to reliable systems. The culture is the power here, not the tools or processes. The systems I have worked on, as a consequence of extreme distribution have bred daunting exponetial routes of failure which rules out the ability to script tests covering all possible failure modes in a pre-production environment. This leads to an uncomfortable truth, we may just have to live with failure, how can we integrate with failure and force it to cohabit with success. 
+
+Accepting failure into production does create design preassure back down through your entire development process. 
 
 ####One of the tools we utilised to help us was dashboards.
 ![MISSING aRT!](roboMon.png "Visualize success!")
