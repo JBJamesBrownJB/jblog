@@ -30,8 +30,8 @@ The lightning talk I delivered at muCon 2019 focuses on how we can keep value in
 There was an interesting question from the audience after this talk which wasn’t captured in the video (partly down to me trying to evade questions ). The question was:
 
 _“Can you talk about some of the tools you used for aiding visibility in your team”_
-    
-This question actually caught me by surprise, and whilst they were absolutely correct and maybe I should have spoken about some of the tools we used such as Nagios, CheckMK, OPSGenie, graylog, graphite, grafana. It struck me that the successful visibility we had on this project was not down to the tools we used but much more about the culture of visibility we adopted and the mindset we had. Embracing outages were more important than embracing tools. However, I’m not sure we would have been able to do it without the tools listed above.
+
+This question actually caught me by surprise, and whilst they were absolutely correct and maybe I should have spoken about some of the tools we used such as Nagios, CheckMK, Ops Genie, graylog, graphite, grafana. It struck me that the successful visibility we had on this project was not down to the tools we used but much more about the culture of visibility we adopted and the mindset we had. Embracing outages were more important than embracing tools. However, I am not sure we would have been able to do it without the tools listed above.
 
 Just like tools, dashboards don’t bring visibility alone, they are just another way to empower the culture that breeds visibility.
 
