@@ -1,18 +1,13 @@
 ---
-title: Continuous visibility, Clean your dash!
+title: Test in production
 category: "monitoring"
 cover: DashRash.png
 author: JB
 ---
 
-##Make the most out of your dashboards
+- Production is the only place your software matters and...
+- ...there is no place like production
+- There is no test entry point like each users end compute node and...
+- ...only your users know what 'functional' means
 
-Its usually the case that having visibility on what your software is doing / not doing doesnt mean dashboards. But they are useful tools. In this 15 minute lightning talk I give some tips to keep your dashboards clean, relevent and useful.
-
-### muCon Conference, London, 2019
-
-[![Conference video not found](notclear.PNG)](https://player.vimeo.com/video/339167478 "Continuous Visivility, no more dashboards!")
-
-Just like tools, dashboards don’t bring visibility alone, they are just another way to empower the culture that breeds visibility.
-
-![](dash-rash-12334.png)
+In order to be confident that your software is achieving its goal you must ask every single user to test every peice of functionality in production, constantly. Anything short of this is an inferior compromise.
